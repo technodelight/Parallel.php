@@ -9,6 +9,9 @@
         }
     ],
     "minimum-stability": "stable",
+    "require": {
+        "ext-pcntl": "*"
+    },
     "require-dev": {
         "phpunit/php-code-coverage": "1.2.*"
     },
